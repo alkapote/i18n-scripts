@@ -8,7 +8,7 @@
 
 ]]
 
-{
+bLogs.Language = {
 
 	-- First column in the logs, shows the date/time of the log
 	when = "Sonra",
