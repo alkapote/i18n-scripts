@@ -8,7 +8,7 @@
 
 ]]
 
-{
+bLogs.Language = {
 	
 	permission_failure = "Actualmente no tienes permiso para hacer esto.",
 

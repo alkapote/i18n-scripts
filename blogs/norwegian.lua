@@ -9,6 +9,7 @@
 ]]
 
 bLogs.Language = {
+
 	permission_failure = "Du har ikke tilatelse til å gjøre dette.",
 
 	-- When the user is an admin, this will be in the window title.
